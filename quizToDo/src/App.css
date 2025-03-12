@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: url("IMG.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 600px;
+}

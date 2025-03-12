@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "bebf",
+      "nombre": "Marijo",
+      "contraseña": "111"
+    },
+    {
+      "id": "14bf",
+      "nombre": "Axel",
+      "contraseña": "17"
+    },
+    {
+      "id": "1b35",
+      "nombre": "Barry",
+      "contraseña": "123"
+    },
+    {
+      "id": "2377",
+      "nombre": "Barry",
+      "contraseña": "123"
+    },
+    {
+      "id": "9a4c",
+      "nombre": "Darien",
+      "contraseña": "123"
+    },
+    {
+      "id": "9403",
+      "nombre": "steven",
+      "contraseña": "nn"
+    }
+  ],
+  "consults": [
+    {
+      "nombre": "steven",
+      "consulta": "hoy",
+      "id": "d6df"
+    },
+    {
+      "id": "c966",
+      "nombre": "Marijo",
+      "consulta": "gfgf"
+    },
+    {
+      "id": "883f",
+      "nombre": "Marijo",
+      "consulta": "hfgf"
+    },
+    {
+      "id": "ce39",
+      "nombre": "Marijo",
+      "consulta": "que pereza"
+    },
+    {
+      "id": "b289",
+      "nombre": "Marijo",
+      "consulta": "no"
+    },
+    {
+      "id": "15fc",
+      "nombre": "Marijo",
+      "consulta": "hola 2"
+    },
+    {
+      "nombre": "steven",
+      "consulta": "jo",
+      "id": "c04a"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+.foot{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 97%;
+    line-height: 30px;
+    padding: 20px;
+
+  }
+  .sesion{
+    font-family: Arial, sans-serif;
+    backdrop-filter: blur(10px);
+    
+    text-align: center;
+    border: solid;
+    width: 39%;
+    margin: 100px auto;
+    line-height: 30px;
+    padding: 49px;
+  }
+
+  .btnIni{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    
+  }
+
+  .contenedorP{
+    font-family: Arial, Helvetica, sans-serif;
+    backdrop-filter: blur(10px);
+    border: solid ;
+    text-align: center;
+    width: 43%;
+    margin: 100px auto;
+    line-height: 30px;
+    padding: 20px;
+
+  }

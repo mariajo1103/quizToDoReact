@@ -1,0 +1,29 @@
+.prin{
+    font-family: Arial, sans-serif;
+    backdrop-filter: blur(10px);
+    
+    text-align: center;
+    border: solid;
+    width: 39%;
+    margin: 50px auto;
+    line-height: 30px;
+    padding: 49px;
+  }
+
+  .ContConsultas22 {
+    overflow: auto;
+    max-height: 400px;
+    padding: 30px 0;
+  }
+  .ContConsultas {
+    font-family: Arial, sans-serif;
+    backdrop-filter: blur(10px);
+    
+    text-align: center;
+    border: solid;
+    width: 39%;
+    margin: 5px auto;
+    line-height: 30px;
+    padding: 49px;
+    
+  }
